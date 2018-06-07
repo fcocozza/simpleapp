@@ -65,3 +65,5 @@ simpleapp
 10:15 AM WITHOUT SCAN REG
 
 10:24 AM without scan all reg, but tag in TL
+
+10:33 with *
