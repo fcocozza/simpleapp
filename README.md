@@ -61,3 +61,5 @@ simpleapp
 9:47 AM
 
 10:13 AM
+
+10:15 AM WITHOUT SCAN REG
