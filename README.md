@@ -67,3 +67,5 @@ simpleapp
 10:24 AM without scan all reg, but tag in TL
 
 10:33 with *
+
+10:44 am with scan images without running containers
