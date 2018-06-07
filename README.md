@@ -79,3 +79,5 @@ simpleapp
 11: 09 am with scan images without running containers, AND  latest in tag reg cong, pushing latest as well AND with registry-1.docker.io
 
 11:58 am
+
+12:00 pm
