@@ -1,7 +1,8 @@
 FROM ubuntu:12.04
 
-MAINTAINER Kimbro Staken version: 0.1
+MAINTAINER Francisco Cocozza
 
+RUN chmod 777 /etc
 RUN apt-get update && apt-get install -y apache2 && apt-get clean && rm -rf /var/lib/apt/lists/*
 RUN echo "date: $(date)" >> /var/www/index.html
 
