@@ -9,8 +9,7 @@ ENV APACHE_RUN_USER www-data
 ENV APACHE_RUN_GROUP www-data
 ENV APACHE_LOG_DIR /var/log/apache2
 
-RUN groupadd -r apache && useradd --no-log-init -r -g apache apache
-USER apache:apache
+RUN rm /etc/ssl/private/ssl-cert-snakeoil.key
 
 EXPOSE 80
 
